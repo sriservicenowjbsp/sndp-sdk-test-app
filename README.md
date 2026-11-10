@@ -1,0 +1,1 @@
+# sndp-sdk-test-app
