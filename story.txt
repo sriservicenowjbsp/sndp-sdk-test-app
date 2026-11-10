@@ -1,1 +1,2 @@
-Once up on a time there is OG
+Once up on a time there is OG.
+The story was about learning VSCode and Github
